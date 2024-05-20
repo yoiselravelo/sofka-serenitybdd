@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Test inventario","Consultar inventario exitosa","SUCCESS","2024-05-19T22:49:24.1474796-03:00[America/Montevideo]","0.0","5.47"
+"Test create","Create orden compra exitosa","SUCCESS","2024-05-19T22:49:51.3218742-03:00[America/Montevideo]","0.0","6.13"
+"Test consulta","Consultar orden compra exitosa","SUCCESS","2024-05-19T22:50:15.6751047-03:00[America/Montevideo]","0.0","5.05"
+"Test delete","Delete orden compra exitosa","SUCCESS","2024-05-19T22:50:38.2801074-03:00[America/Montevideo]","0.0","4.95"
