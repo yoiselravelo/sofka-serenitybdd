@@ -6,4 +6,4 @@
    - TestConsulta
    - TestDelete
    - TestInventario
-5. Generar reporte mvn serenity:aggregate
+5. Generar reporte HTML con el comando: mvn serenity:aggregate
